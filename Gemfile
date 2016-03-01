@@ -1,6 +1,7 @@
 source "http://rubygems.org"
 gemspec
 
+gem 'sqlite3'
 
 # Gems for authenticators
 group :ldap do
