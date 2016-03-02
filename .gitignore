@@ -16,3 +16,4 @@ resources/dev
 .vagrant
 Vagrantfile
 Gemfile.lock
+.ruby-version
